@@ -1,0 +1,24 @@
+span.a{
+    display: block;
+    width: 50px;
+    height: 50px;
+    padding: 8px;
+    border: 3px solid salmon;
+    background-color: rgb(255, 200, 250);
+}
+span.b{
+    display: inline;
+    width: 50px;
+    height: 50px;
+    padding: 8px;
+    border: 3px solid salmon;
+    background-color: rgb(255, 200, 250);
+}
+span.c{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    border: 3px solid salmon;
+    background-color: rgb(255, 200, 250);
+}

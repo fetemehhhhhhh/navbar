@@ -1,0 +1,13 @@
+img{
+    border: 10px;
+    border-color:rgb(38, 7, 77);
+    border-style: groove;
+    width: 300px;
+    height :300px;
+}
+h2{
+    border: 5px;
+    border-style: dashed;
+    border-color: black;
+}
+
